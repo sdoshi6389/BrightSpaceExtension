@@ -1,0 +1,12 @@
+{
+    "name": "Run Script",
+    "version": "1.0",
+    "description": "Run the batch script",
+    "manifest_version": 2,
+    "permissions": [
+        "nativeMessaging"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+  }

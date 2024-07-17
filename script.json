@@ -1,0 +1,9 @@
+{
+    "name": "com.runscript.script",
+    "description": "Run the script",
+    "path": "run_app.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://jllmdelebmnfnkoadhofdgpfpjmhcnpj/"
+    ]
+}
